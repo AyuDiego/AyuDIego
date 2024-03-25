@@ -1,4 +1,5 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+
 <img align="right" height="270px" alt="guy" width="350" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTExNGF0bjF1cGUxdTFrbzJsN2RlbXoyeTNyODlnYmswanNneHYyOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7NoNw4pMNTvgc/giphy.gif" /> </a>
 
 ### 👋 I’m Diego Del Barrio Ayuso aka AyuDiego
@@ -12,16 +13,18 @@
 - 📝 I'm a Web designer & Front developer for 6 years ago.
 - 💬 Ask me about: anything, I am happy to help
 
--   <a href="https://github.com/AyuDiego?tab=followers"><img src="https://img.shields.io/github/followers/AyuDiego?label=Followers&style=social" alt="GitHub Badge"></a>
-<br><br>
+- <a href="https://github.com/AyuDiego?tab=followers"><img src="https://img.shields.io/github/followers/AyuDiego?label=Followers&style=social" alt="GitHub Badge"></a>
+  <br><br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br> 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+
 <br>
 
 <p align="center">
  <br>
+ 
  - **Front-End Development**:
 <div>
    <img  alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -35,6 +38,7 @@
   <img  alt="styledComponent" src ="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
   <img  alt="bootstrap" src ="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </div>
+
 <br>
 - **Languages**:
 <div>
@@ -58,6 +62,7 @@
 <br><br><br><br>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+
 <br>
 <div align="center">
 
