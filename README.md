@@ -23,8 +23,8 @@
 <img align="left" height="350" alt="mycat" width="350"  hspace="20" vspace="20" src="https://avatars.githubusercontent.com/u/48926563?v=4" />
  
 
-<p align="center">
 <br>
+<p align="center">
   
 - **Front-End Development**:
 
