@@ -30,11 +30,11 @@
 
 
 <div>
-  <img  alt="HTML5" src="https://img.shields.io/badge/html5?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img  alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img  alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
   <img  alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img alt="Angular" src="https://img.shields.io/badge/-Angular?style=for-the-badge&logo=angular&logoColor=%23B52E31&label=Angular&labelColor=%23000000&color=%23b3b3b3">
-<img  alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>    
+<img alt="Angular" src="https://img.shields.io/badge/-Angular-%23B52E31.svg?style=for-the-badge&logo=angular&logoColor=%23B52E31&label=Angular&labelColor=%23000000&color=%23b3b3b3">
+	<img  alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>    
   <img  alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/> 
   <img  alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img  alt="sass" src ="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>  
