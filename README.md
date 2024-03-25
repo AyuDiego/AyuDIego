@@ -16,20 +16,12 @@
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-  <br><br><br><br>
-<p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i>
-</p>
  
-<p>
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AyuDiego&langs_count=10&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ayudiego" />
-</p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=AyuDiego&show_icons=true&locale=en&theme=chartreuse-dark" alt="ayudiego" width="410"/>
-</p>
-
 <br><br><br><br><br><br><br><br>
 
-## Technologies currently using
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<br>
+
 
 <div>
   <img  alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
