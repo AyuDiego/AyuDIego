@@ -7,9 +7,9 @@
 <br />
 
 - 🌱 &nbsp;I'm currently working for Front developer.
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
+-  :computer: &nbsp;Connect with me on [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/diegodelbarrio/)
 - 📫 How to reach me **d.del.barrio.ayuso@gmail.com**
-- 📝 I studied at Santander degree 
+- 📝 I'm a Front developer since 6 years ago 
 - 💬 Ask me about: anything, I am happy to help
 	<a href="https://github.com/AyuDiego?tab=followers"><img src="https://img.shields.io/github/followers/AyuDiego?label=Followers&style=social" alt="GitHub Badge"></a>
 <br><br><br><br>
@@ -58,10 +58,10 @@
 <div>
   <img  alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> 
   <img  alt="colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"/>
-  <img  alt="intellij" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/> 
-  <img  alt="blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/>
+
+
   <img  alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img  alt="canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
+
 
  </div>
  
@@ -78,7 +78,6 @@
  </a>
 </p>
 
-
-[linkedin]: https://www.linkedin.com/in/diegodelbarrio/ 
+ 
 
 ------
