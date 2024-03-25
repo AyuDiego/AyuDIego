@@ -13,8 +13,10 @@
 - 💬 Ask me about: anything, I am happy to help
 
 -   <a href="https://github.com/AyuDiego?tab=followers"><img src="https://img.shields.io/github/followers/AyuDiego?label=Followers&style=social" alt="GitHub Badge"></a>
-  <br><br><br><br>
+<br><br>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+  <br><br><br><br>
 <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i>
 </p>
