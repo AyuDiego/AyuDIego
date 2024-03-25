@@ -10,6 +10,7 @@
 - 📫 How to reach me **d.del.barrio.ayuso@gmail.com**
 - 📝 I'm a Front developer since 6 years ago
 - 💬 Ask me about: anything, I am happy to help
+
   <a href="https://github.com/AyuDiego?tab=followers"><img src="https://img.shields.io/github/followers/AyuDiego?label=Followers&style=social" alt="GitHub Badge"></a>
   <br><br><br><br>
 
