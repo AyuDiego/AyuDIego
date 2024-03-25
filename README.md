@@ -19,7 +19,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<img align="left" height="300" alt="mycat" width="300"  style="vertical-align:middle;margin:0px 50px" src="https://avatars.githubusercontent.com/u/48926563?v=4" />
+<img align="left" height="300" alt="mycat" width="300"  hspace="20" src="https://avatars.githubusercontent.com/u/48926563?v=4" />
 <br>
 
 <p align="center">
