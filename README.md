@@ -5,10 +5,10 @@
 > A curiosity-driven Front-End Developer with design chops based in Madrid (Spain)
 > <br />
 
-- 🌱 &nbsp;I'm currently working for Front developer.
+- 🌱 &nbsp;I'm currently working as a Front developer.
 - :computer: &nbsp;Connect with me on [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/diegodelbarrio/)
 - 📫 How to reach me **d.del.barrio.ayuso@gmail.com**
-- 📝 I'm a Front developer since 6 years ago
+- 📝 I'm a Web designer & Front developer for 6 years ago.
 - 💬 Ask me about: anything, I am happy to help
 
 -   <a href="https://github.com/AyuDiego?tab=followers"><img src="https://img.shields.io/github/followers/AyuDiego?label=Followers&style=social" alt="GitHub Badge"></a>
