@@ -25,7 +25,7 @@
 <p align="center">
 
 - **Front-End Development**:
-<div>
+<div align="center">
    <img  alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img  alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
   <img  alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -41,13 +41,13 @@
 <br>
 
 - **Languages**:
-<div>
+<div align="center">
   <img  alt="java" src ="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>  
   <img  alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </div>
 
 - **Softwares and Tools**:
-<div>
+<div align="center">
   <img  alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> 
   <img  alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img  alt="photoshop" src="https://img.shields.io/badge/-Photoshop-05122A?style=for-the-badge&logo=adobe-photoshop"/>
