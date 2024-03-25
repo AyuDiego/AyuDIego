@@ -1,5 +1,5 @@
-<img align="right" height="270px" alt="guy" width="350" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTExNGF0bjF1cGUxdTFrbzJsN2RlbXoyeTNyODlnYmswanNneHYyOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7NoNw4pMNTvgc/giphy.gif" /> </a>
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+<img align="right" height="270px" alt="guy" width="350" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTExNGF0bjF1cGUxdTFrbzJsN2RlbXoyeTNyODlnYmswanNneHYyOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7NoNw4pMNTvgc/giphy.gif" /> </a>
 
 ### 👋 I’m Diego Del Barrio Ayuso aka AyuDiego
 
