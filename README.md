@@ -37,7 +37,7 @@
   <img  alt="aws" src ="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/> 
   <img  alt="styledComponent" src ="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
   <img  alt="bootstrap" src ="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-
+<br>
 
 - **Softwares and Tools**:
 
