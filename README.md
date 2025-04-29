@@ -2,7 +2,7 @@
 
 <img align="right" height="270px" alt="guy" width="350" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTExNGF0bjF1cGUxdTFrbzJsN2RlbXoyeTNyODlnYmswanNneHYyOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7NoNw4pMNTvgc/giphy.gif" /> </a>
 
-### 👋 I’m Diego Del Barrio Ayuso aka AyuDiego
+### 👋 I’m Diego Del Barrio Ayuso aka Ayu
 
 > A curiosity-driven Front-End Developer with design chops based in Madrid (Spain)
 > <br />
